@@ -19,4 +19,4 @@ def paly_game():
         print(message)
     print("你猜对了！你一共猜了" , tries , "次")
     
-paly_game()
+play_game()
