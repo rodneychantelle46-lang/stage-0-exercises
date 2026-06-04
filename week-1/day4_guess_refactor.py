@@ -6,7 +6,7 @@ def check_guess(guess,secret):
     else:
         return "猜大了"
     
-def paly_game():
+def play_game():
     secret = 372
     guess = 0
     tries = 0
